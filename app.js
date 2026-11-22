@@ -20,7 +20,7 @@
   const DEFAULT_CLASS_NAME = '高一（4）班';
   const SAMPLE_CLASS_NAME = '班级昵称';
   const SAMPLE_ROSTER = `杨智清,1
-王,2
+王冯超,2
 涂沁慈,3
 李昕怡,4
 蒋沁轩,5
