@@ -18,7 +18,7 @@
   const MAX_FILE_BYTES = 15 * 1024 * 1024;
   const HISTORY_LIMIT = 60;
   const DEFAULT_CLASS_NAME = '高一（4）班';
-  const SAMPLE_CLASS_NAME = '班级昵称';
+  const SAMPLE_CLASS_NAME = '高一（4）班';
   const SAMPLE_ROSTER = `杨智清,1
 王冯超,2
 涂沁慈,3
